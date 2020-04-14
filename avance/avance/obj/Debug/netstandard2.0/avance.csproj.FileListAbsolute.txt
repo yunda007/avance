@@ -1,0 +1,16 @@
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\avance.csprojAssemblyReference.cache
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\Paginas\Listado.xaml.g.cs
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\Paginas\Persona.xaml.g.cs
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\avance.csproj.CoreCompileInputs.cache
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\avance.AssemblyInfoInputs.cache
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\avance.AssemblyInfo.cs
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\bin\Debug\netstandard2.0\avance.deps.json
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\bin\Debug\netstandard2.0\avance.dll
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\bin\Debug\netstandard2.0\ref\avance.dll
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\bin\Debug\netstandard2.0\avance.pdb
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\avance.dll
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\ref\avance.dll
+C:\Users\Enderson Yunda\source\repos\avance\avance\avance\obj\Debug\netstandard2.0\avance.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             
+             x:Class="avance.Paginas.Listado">
+  <ScrollView>
+  <StackLayout>
+   
+    <Label Text="Listado de Personas" HorizontalOptions="Center" TextColor="Black"></Label>
+    <ListView ItemsSource="{Binding ListadoPersonas1}">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout Orientation="Horizontal">
+            <Label x:Name="lbNombre" Text="{Binding Nombre}"></Label>
+              <Label x:Name="lbApellido" Text="{Binding Apellido}"></Label>
+              <Label x:Name="lbCorreo" Text="{Binding Correo}"></Label>
+              <Label x:Name="lbPais" Text="{Binding Pais}" ></Label>
+              <Label x:Name="lbCiudad" Text="{Binding Ciudad}" ></Label>
+              <Label x:Name="lbFecha" Text="{Binding Fecha}"></Label>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+    
+  </StackLayout>
+  </ScrollView>
+ 
+</ContentPage>
